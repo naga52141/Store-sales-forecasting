@@ -98,6 +98,17 @@ if (window.salesChartInstance) {
 - [ ] Support real-time data from a database  
 - [ ] Allow multiple store forecasting  
 
+
+## 🎯 **Outputs**
+
+<img width="1470" alt="Screenshot 2025-04-03 at 8 10 40 AM" src="https://github.com/user-attachments/assets/17c58588-7f3d-437b-9c8e-6467f29020df" />
+<img width="1470" alt="Screenshot 2025-04-03 at 8 11 01 AM" src="https://github.com/user-attachments/assets/d08ada2a-3756-4159-ab34-01741e23da85" />
+<img width="1470" alt="Screenshot 2025-04-03 at 8 11 16 AM" src="https://github.com/user-attachments/assets/8fec58c6-3da7-4aa7-a8b5-eca043d5642c" />
+<img width="1470" alt="Screenshot 2025-04-03 at 8 11 37 AM" src="https://github.com/user-attachments/assets/5fa47e12-cbce-474d-a2ea-7d4812b2e0ad" />
+
+
+
+
 ---
 
 ## 📜 **License**
