@@ -1,7 +1,6 @@
 # 📊 Store Sales Forecasting Web App  
 
-This project is a web-based **Store Sales Forecasting** application that predicts future store sales using **SARIMA** and **Prophet** models. Users can upload sales data in CSV format, and the application will generate a sales forecast, displaying both **actual and predicted sales** in a chart and table format.
-
+This project is a web-based application that helps you predict future store sales. It uses a model called SARIMA  to make these predictions. You can easily upload your sales data in a CSV file, and the app will show you both the actual and predicted sales in a chart and table format. It’s like having a secret sales forecasting tool at your fingertips!
 ---
 
 ## 🚀 **Features**
